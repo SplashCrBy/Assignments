@@ -12,15 +12,15 @@ Assigments are released on Monday mornings and due on Sunday nights, either one 
 
 #### A3: Data Privacy
 - Released: Monday, February 5th (W5)
-- Due: Sunday, February 11th @ 11:59 pm (W5)
+- Due: Tuesday, February 13th @ 11:59 pm (W6)
 
 #### A4: Data Analysis
-- Released: Monday, February 12th (W6)
-- Due: Sunday, February 25th @ 11:59 pm (W7)
+- Released: Friday, February 16th (W6)
+- Due: Monday, February 26th @ 11:59 pm (W8)
 
-#### A5: Name TDB
-- Released: Monday, February 26th (W8) 
-- Due: Sunday, March 4th @ 11:59 pm (W9)
+#### A5: Natural Language Processing
+- Released: Wednesday, February 28th (W8) 
+- Due: Sunday, March 11th @ 11:59 pm (W9)
 
 ## Project Schedule
 
